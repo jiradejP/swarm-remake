@@ -52,7 +52,7 @@
     "sweetalert": "^2.1.0",
     "sweetalert2": "^8.10.7",
     "textract": "^2.4.0",
-    "validator": "^9.4.0",
+    "validator": "^13.7.0",
     "word-extractor": "^0.3.0",
     "word2pdf": "^1.0.7"
   },
